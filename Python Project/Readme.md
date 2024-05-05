@@ -14,7 +14,7 @@ Key Features:
 
 
 *Cost Calculation:Incorporates user-provided data to perform cost calculations for both traditional vehicles and EVs.Considering factors such as fuel type, distance, fuel efficiency, fuel prices, for fuel powered 
-  vehicles and electricity cost, charging efficiency, battery capacity, range for EVs.
+    vehicles and electricity cost, charging efficiency, battery capacity, range for EVs.
 
   
 *Data Visualization:Presenting data in an easily understandable format and distribution of costs based on destination distance for fuel powered vehicles and EVs.
