@@ -1,4 +1,10 @@
 ---------------Fuel Cost and Electric Vehicle Charge Cost Calculator-------------------------------
+
+
+
+
+
+
 The “Fuel and Electric Vehicle Cost Calculator” is an interactive Python-based application that helps users to make decisions or have ideas about transportation costs by considering destination distance, vehicle mileage, fuel prices, and electricity costs. The project includes a user-friendly graphical interface and provides a comprehensive tool for users to assess the total cost of ownership for both fuel-powered vehicles and electric vehicles(EVs).
 
 Key Features:
