@@ -17,5 +17,5 @@ Key Features:
     vehicles and electricity cost, charging efficiency, battery capacity, range for EVs.
 
   
-*Data Visualization:Presenting data in an easily understandable format and distribution of costs based on destination distance for fuel powered vehicles and EVs.
+*Data Visualization:Presenting data in an easily understandable format and distribution of costs based on destination distance for fuel powered   vehicles and EVs.
 
